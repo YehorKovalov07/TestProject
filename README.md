@@ -1,1 +1,1 @@
-This app only works on a Mac
+This app only works on a Mac.
